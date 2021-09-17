@@ -1,6 +1,6 @@
 {
   "name": "@4ire-labs/near-sdk",
-  "version": "1.0.0-beta.11",
+  "version": "1.0.0-beta.12",
   "license": "UNLICENSED",
   "description": "SDK for NEAR Protocol",
   "keywords": [
@@ -13,7 +13,7 @@
   "main": "src/index.ts",
   "types": "index.d.ts",
   "dependencies": {
-    "near-api-js": "^0.41.0",
+    "near-api-js": "^0.42.0",
     "near-seed-phrase": "^0.2.0"
   },
   "scripts": {
